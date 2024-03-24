@@ -11,7 +11,8 @@
             "nome" : "Felipe2",
             "login" : "RECEPCIONISTA",
             "senha" : "123"
-        },{
+        },
+        {
             "id" : 2,
             "nome" : "Felipe3",
             "login" : "MEDICO",
@@ -51,6 +52,74 @@
             "exames" : [
                 "ultra vaginal", "sangue", "glicemia"
             ]
+        }
+    ],
+
+    "especialidades" : [
+        {
+            "id" : 1,
+            "tipo" : "Diabetes",
+            "medico" : 1
+        },
+        {
+            "id" : 2,
+            "tipo" : "Revisional",
+            "medico" : 1
+        },
+        {
+            "id" : 3,
+            "tipo" : "ASO/Admicional",
+            "medico" : 2
+        },
+        {
+            "id" : 4,
+            "tipo" : "Criança",
+            "medico" : 2
+        },
+        {
+            "id" : 5,
+            "tipo" : "Colesterol",
+            "medico" : 3
+        },
+        {
+            "id" : 6,
+            "tipo" : "Urgencia",
+            "medico" : 3
+        }
+    ],
+
+    "exames" : [
+        {
+            "id" : 1,
+            "tipo" : "Glicemia"
+        },
+        {
+            "id" : 2,
+            "tipo" : "Colesterol"
+        },
+        {
+            "id" : 3,
+            "tipo" : "Raio X"
+        },
+        {
+            "id" : 4,
+            "tipo" : "Ultrassom"
+        },
+        {
+            "id" : 5,
+            "tipo" : "Sangue"
+        },
+        {
+            "id" : 6,
+            "tipo" : "Teste fisico"
+        },
+        {
+            "id" : 7,
+            "tipo" : "Exame de urina"
+        },
+        {
+            "id" : 8,
+            "tipo" : "Exame cardiovascular"
         }
     ]
 }
