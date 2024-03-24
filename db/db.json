@@ -4,18 +4,18 @@
             "id" : 1,
             "nome" : "Felipe1",
             "login" : "GESTOR",
-            "seneha" : "123"
+            "senha" : "123"
         },
         {
             "id" : 2,
             "nome" : "Felipe2",
             "login" : "RECEPCIONISTA",
-            "seneha" : "123"
+            "senha" : "123"
         },{
             "id" : 2,
             "nome" : "Felipe3",
             "login" : "MEDICO",
-            "seneha" : "123"
+            "senha" : "123"
         }
     ],
 

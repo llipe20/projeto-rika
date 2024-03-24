@@ -1,11 +1,11 @@
 import React from "react";
 
-const HomePage = () => {
+const MedicoPage = ({user}) => {
     return (
         <div className="text-balck flex w-screen h-screen">
-            Home aqui
+            Home aqui {user}
         </div>
     )
 }
 
-export default HomePage
+export default MedicoPage
